@@ -1,5 +1,5 @@
 body {
-    background-color: lightgray;
+    background-color: white;
     font-family: sans-serif;
 }
 
@@ -27,6 +27,14 @@ nav ul li:last-child {
 nav ul li a {
     text-decoration: none;
     color: #111111;
+}
+
+nav li.selected {
+    color: #606060;
+}
+
+nav li a:hover {
+    color: lightgray;
 }
 
 table {
