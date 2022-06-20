@@ -68,3 +68,11 @@ p.dojo-foundation::before {
     content: "Notice: ";
     font-weight: bold;
 }
+
+.footnote {
+    font-size: small;
+}
+
+.italics {
+    font-style: italic;
+}
