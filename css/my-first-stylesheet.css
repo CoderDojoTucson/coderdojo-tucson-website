@@ -73,6 +73,11 @@ p.dojo-foundation::before {
     font-weight: bold;
 }
 
+.workshop-img {
+    height: 300px;
+    width: 450px;
+}
+
 .footnote {
     font-size: small;
 }
