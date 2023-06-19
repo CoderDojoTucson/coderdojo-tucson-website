@@ -82,6 +82,12 @@ p.dojo-foundation::before {
     width: 600px;
 }
 
+.book-cover {
+    margin-left: 25px;
+    height: 250px;
+    width: 175px;
+}
+
 .footnote {
     font-size: small;
 }
