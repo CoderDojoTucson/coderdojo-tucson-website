@@ -58,6 +58,7 @@ td {
 
 .button-div {
     margin: 0px 0px 0px 50px;
+    width: 10%;
 }
 
 .return-link {
@@ -77,9 +78,14 @@ p.dojo-foundation::before {
     font-weight: bold;
 }
 
+.workshop-img-div {
+    margin: auto;
+}
+
 .workshop-img {
-    height: 450px;
-    width: 600px;
+    height: 200px;
+    width: 400px;
+    margin: auto;
 }
 
 .workshop-week-5-img {
