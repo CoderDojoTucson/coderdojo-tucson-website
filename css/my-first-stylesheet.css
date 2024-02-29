@@ -57,8 +57,9 @@ td {
 }
 
 .button-div {
-    margin: 0px 0px 0px 50px;
-    width: 10%;
+    display: block;
+    margin: auto;
+    width: 50px;
 }
 
 .return-link {
@@ -78,12 +79,8 @@ p.dojo-foundation::before {
     font-weight: bold;
 }
 
-.workshop-img-div {
-    margin: auto;
-}
-
 .workshop-img {
-    height: 200px;
+    display: block;
     width: 400px;
     margin: auto;
 }
@@ -91,6 +88,16 @@ p.dojo-foundation::before {
 .workshop-week-5-img {
     height: 300px;
     width: 600px;
+}
+
+.workshop-article {
+    text-align: center;
+    font-size: large;
+    margin: 10px 20px;
+}
+
+.workshop-article ul {
+    list-style-type: none;
 }
 
 .book-cover {
