@@ -83,6 +83,12 @@ p.dojo-foundation::before {
     content: "Notice: ";
     font-weight: bold;
 }
+ 
+.highlighted-image {
+    display: block;
+    width: 250px;
+    margin: auto;
+}
 
 .workshop-img {
     display: block;
