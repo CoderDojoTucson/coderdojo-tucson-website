@@ -58,13 +58,19 @@ td {
 
 .button-div {
     display: block;
-    width: 50px;
 }
 
 button {
     height: 50px;
     width: 150px;
     font-size: larger;
+}
+
+.workshop-button {
+    height: 50px;
+    width: 300px;
+    font-size: larger;
+    margin: auto;
 }
 
 .return-link {
