@@ -96,6 +96,30 @@ p.dojo-foundation::before {
     margin: auto;
 }
 
+.home-header {
+    text-align: center;
+}
+
+.lead-article {
+    text-align: center;
+    font-size: large;
+    margin: 10px 20px;
+}
+
+.lead-article ul {
+    list-style-type: none;
+}
+
+.more-info-article {
+    text-align: center;
+    font-size: large;
+    margin: 10px 20px;
+}
+
+.more-info-article ul {
+    list-style-type: none;
+}
+
 .workshop-img {
     display: block;
     width: 400px;
