@@ -77,6 +77,24 @@ button {
     font-style: italic;
 }
 
+.lead-button-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lead-button {
+    border: 2px solid rgb(75 70 74);
+    border-radius: 0.5em;
+    text-align: center;
+    width: fit-content; 
+}
+
+.lead-text {
+    font: 1.2em sans-serif;
+    padding: 5px;
+}
+
 p.dojo-foundation {
     border: 4px solid #111111;
     border-radius: 10px;
