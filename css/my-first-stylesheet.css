@@ -160,6 +160,12 @@ p.dojo-foundation::before {
     list-style-type: none;
 }
 
+.workshop-schedule {
+    margin: 10px 10px;
+    padding: 5px 20px;
+    background-color: lightgrey;
+}
+
 .book-cover {
     margin-left: 25px;
     height: 250px;
